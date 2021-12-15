@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ammyy9908.github.io/csb-138l0/static/css/main.1d8a5c13.chunk.css",
+    "main.js": "https://ammyy9908.github.io/csb-138l0/static/js/main.073d02f8.chunk.js",
+    "main.js.map": "https://ammyy9908.github.io/csb-138l0/static/js/main.073d02f8.chunk.js.map",
+    "runtime-main.js": "https://ammyy9908.github.io/csb-138l0/static/js/runtime-main.7511570d.js",
+    "runtime-main.js.map": "https://ammyy9908.github.io/csb-138l0/static/js/runtime-main.7511570d.js.map",
+    "static/js/2.923e690b.chunk.js": "https://ammyy9908.github.io/csb-138l0/static/js/2.923e690b.chunk.js",
+    "static/js/2.923e690b.chunk.js.map": "https://ammyy9908.github.io/csb-138l0/static/js/2.923e690b.chunk.js.map",
+    "index.html": "https://ammyy9908.github.io/csb-138l0/index.html",
+    "static/css/main.1d8a5c13.chunk.css.map": "https://ammyy9908.github.io/csb-138l0/static/css/main.1d8a5c13.chunk.css.map",
+    "static/js/2.923e690b.chunk.js.LICENSE.txt": "https://ammyy9908.github.io/csb-138l0/static/js/2.923e690b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7511570d.js",
+    "static/js/2.923e690b.chunk.js",
+    "static/css/main.1d8a5c13.chunk.css",
+    "static/js/main.073d02f8.chunk.js"
+  ]
+}
